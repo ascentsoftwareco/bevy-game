@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My 3d Game
 
 This game project was generated using the [Bevy New Third Person](https://github.com/olekspickle/bevy_new_3d_rpg) template.
@@ -106,3 +107,6 @@ The source code in this repository is licensed under any of the following at you
 [`physics_in_fixed_timestep`]: https://github.com/bevyengine/bevy/blob/main/examples/movement/physics_in_fixed_timestep.rs
 [`smooth_nudge`]: https://github.com/bevyengine/bevy/blob/main/examples/movement/smooth_follow.rs#L127-L142
 [load at the start of the game]: https://github.com/rparrett/bevy_pipelines_ready/blob/main/src/lib.rs
+=======
+Learning Bevy using the bevy_new_3d_rpg template.
+>>>>>>> 5e080ce0ee6dd5eb254ac64af5f4c50394e99d74
