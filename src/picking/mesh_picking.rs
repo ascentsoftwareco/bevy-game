@@ -8,7 +8,7 @@
 use bevy::{color::palettes::tailwind::*, picking::pointer::PointerInteraction, prelude::*};
 
 pub fn plugin(app: &mut App) {
-    //app.add_systems(Update, draw_mesh_intersections);
+    app.add_systems(Update, draw_mesh_intersections);
 }
 
 /// Returns an observer that updates the entity's material to the one specified.
